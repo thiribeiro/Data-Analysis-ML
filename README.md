@@ -1,2 +1,2 @@
 # Data-Analysis-ML
-Data Analysis for Machine Learning Algorithms
+Notebooks/Scripts to Data Analysis and Machine Learning Algorithms used in Kaggle.
